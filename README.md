@@ -7,3 +7,5 @@
 
 移除部分server命令
 (announce、ban、coop、kick、Permission、stop)
+
+增加了些小彩蛋:P
